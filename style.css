@@ -3,18 +3,21 @@ body {
     padding: 0;
     overflow-x:hidden;
     overflow-y:hidden;
+    text-decoration:none;
 }
+}
+
 #nav {
     height: 22px;
     width:100%;
+    
 }
 #topnavigation {
     list-style:none;
     margin-left:1080px; 
     font-size:12px;
     font-family:Arial, Helvetica, sans-serif;
-    font-style:none;  
-    text-decoration:none;
+    font-style:none;
     
 }
 
@@ -36,8 +39,8 @@ li{
     height:40px;
     width:570px;
     margin-left:410px;
-    margin-bottom:20px;
-    border-radius: 25px;
+    margin-bottom:5px;
+    border-radius: 20px;
     font-size:20px;
     border:1px solid lightgray;
     box-shadow: 0px 0px 3px 0px lightgray;
@@ -67,7 +70,6 @@ button{
     color:rgba(0,0,0,.54); 
     font-size:14px;
     font-family: Arial, Helvetica, sans-serif;
-    text-decoration:none;
-    padding-bottom:20px;
+    margin-bottom:20px;
 
 }
