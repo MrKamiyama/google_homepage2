@@ -53,7 +53,7 @@ button{
     margin-top:10px;
 }
 #footer{
-    position:relative;
+    position:bottom;
     list-style:none;
     height:38px;
     background-color: #f2f2f2;
